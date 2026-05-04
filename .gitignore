@@ -1,0 +1,21 @@
+# Files to ignore
+node_modules/
+.env
+.env.local
+.env.*
+dist/
+build/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# NLP test files
+NLP/test_resume.pdf
+NLP/test_resume.txt
+NLP/test_api.js
+
+
+# Editor
+.vscode/
+.idea/
